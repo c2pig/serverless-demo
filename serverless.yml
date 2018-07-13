@@ -37,7 +37,7 @@ functions:
           path: add
           method: post
           cors: true
-          private: true
+#          private: true
 
   list:
     handler: list.list
@@ -46,7 +46,7 @@ functions:
           path: find
           method: get
           cors: true
-          private: true
+#          private: true
 
   get:
     handler: get.get
@@ -55,7 +55,7 @@ functions:
           path: find/{id}
           method: get
           cors: true
-          private: true
+#          private: true
 
 #  update:
 #    handler: todos/update.update
