@@ -1,0 +1,4 @@
+*-lock.json
+.serverless
+node_modules/
+venv/

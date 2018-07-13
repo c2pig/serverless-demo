@@ -1,2 +1,3 @@
-# serverless-demo
-# serverless-demo
+## Pre-req
+virtualenv venv --python=python3
+source venv/bin/activate
